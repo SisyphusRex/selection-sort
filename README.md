@@ -9,6 +9,7 @@ O(n^2)
 Ω(n^2)  
 Θ(n^2)  
 ### Worst Case
+elements are in descending order
 O(n^2)  
 Ω(n^2)  
 Θ(n^2)  
