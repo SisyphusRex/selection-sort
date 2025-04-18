@@ -2,11 +2,13 @@ Selection sort treats the input as a sorted part and an usorted part, and repeat
 from the unsorted part to the end of the sorted part.
 
 ## Complexity
+The runtime of Selection Sort does not change depending on input.
 ### Best Case
-O  
-Ω  
-Θ  
+elements are already sorted
+O(n^2)  
+Ω(n^2)  
+Θ(n^2)  
 ### Worst Case
-O  
-Ω  
-Θ  
+O(n^2)  
+Ω(n^2)  
+Θ(n^2)  
