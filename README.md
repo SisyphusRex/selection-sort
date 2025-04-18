@@ -2,6 +2,11 @@ Selection sort treats the input as a sorted part and an usorted part, and repeat
 from the unsorted part to the end of the sorted part.
 
 ## Complexity
-### Worst Case
-
 ### Best Case
+O  
+Ω  
+Θ  
+### Worst Case
+O  
+Ω  
+Θ  
