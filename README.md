@@ -4,7 +4,7 @@ from the unsorted part to the end of the sorted part.
 ## Complexity
 The runtime of Selection Sort does not change depending on input.
 ### Best Case
-elements are already sorted
+elements are already sorted  
 O(n^2)  
 Ω(n^2)  
 Θ(n^2)  
